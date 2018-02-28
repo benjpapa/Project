@@ -8,6 +8,12 @@ And drugs cause cramp.
 Guns aren't lafwul;
 Nooses give;
 
+<<<<<<< HEAD
 Gas smells delightful!
 You might as well live.
 --Dorothy Parker
+=======
+Gas smells awful;
+You might as well live.
+	       --Dorothy Parker
+>>>>>>> 9c23f0f3786ce32ca5b04d1de504e4484452e4d2
